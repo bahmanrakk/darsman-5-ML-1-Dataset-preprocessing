@@ -410,3 +410,6 @@ memory usage: 27.8+ KB</p>
 <p>💾 دیتافریم با موفقیت در 'data\loans_final2.csv' ذخیره شد.</p>
 
 </div>
+
+<hr>  
+<br><br><br><br><br><br>
