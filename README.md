@@ -51,7 +51,7 @@
     <li>رمزگذاری متغیرهای دسته‌ای:
         <ul>
             <li>تبدیل متغیرهای دسته‌ای به عددی با تکنیک‌های:
-                <ul>
+                <ul dir="rtl">
                     <li>Label Encoding</li>
                     <li>OneHot Encoding</li>
                 </ul>
